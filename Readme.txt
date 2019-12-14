@@ -1,6 +1,6 @@
 #Progetto per il corso di Metodi di Ottimizzazione per Big Data
-##Implemetazione di un classificatore, tramite l'utilizzo di un SVM (Support Vector Machine) che sia in grado di predire i caratteri osservati dal paziente soggetto a SLA e che sta utilizzando il tool BCI (Brain-Computer Interface)  
-###(Lanciotti - Nedia)
+## Implemetazione di un classificatore, tramite l'utilizzo di un SVM (Support Vector Machine) che sia in grado di predire i caratteri osservati dal paziente soggetto a SLA e che sta utilizzando il tool BCI (Brain-Computer Interface)  
+### (Lanciotti - Nedia)
 
 Inizialmente è possibile scegliere la modalità 
 	- "mean" se si vuole lavorare sulla matrice mediata e ridotta
