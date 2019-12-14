@@ -3,8 +3,8 @@
 ### (Lanciotti - Nedia)
 
 Inizialmente è possibile scegliere la modalità :
--"mean" se si vuole lavorare sulla matrice mediata e ridotta
--"full" se si vuole lavorare sull'intero dataset non mediato
+	"mean" se si vuole lavorare sulla matrice mediata e ridotta
+	"full" se si vuole lavorare sull'intero dataset non mediato
 configurabile tramite il parametro type.	
 
 PARAMETRI UTILIZZATI:
