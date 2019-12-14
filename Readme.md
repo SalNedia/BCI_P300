@@ -1,10 +1,10 @@
-# Progetto per il corso di Metodi di Ottimizzazione per Big Data
+# Progetto per il corso di MOBD (Metodi di Ottimizzazione per Big Data)
 ## Implemetazione di un classificatore, tramite l'utilizzo di un SVM (Support Vector Machine) che sia in grado di predire i caratteri osservati dal paziente soggetto a SLA e che sta utilizzando il tool BCI (Brain-Computer Interface)  
 ### (Lanciotti - Nedia)
 
-Inizialmente è possibile scegliere la modalità :
-	"mean" se si vuole lavorare sulla matrice mediata e ridotta
-	"full" se si vuole lavorare sull'intero dataset non mediato
+Inizialmente è possibile scegliere la modalità:
+a."mean" se si vuole lavorare sulla matrice mediata e ridotta
+b."full" se si vuole lavorare sull'intero dataset non mediato
 configurabile tramite il parametro type.	
 
 PARAMETRI UTILIZZATI:
